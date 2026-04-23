@@ -18,3 +18,8 @@ This project implements a custom object detection model using YOLOv8 to detect v
 ## 📊 Results
 - Successfully detected cars with high accuracy
 - Achieved good precision and mAP scores
+
+## Dataset
+The dataset is too large to upload on GitHub.
+You can download it from:
+https://www.kaggle.com/datasets/sshikamaru/car-object-detection/data
